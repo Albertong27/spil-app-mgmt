@@ -1,0 +1,6 @@
+{
+  "execution_policy":"allow",
+  "allowed_modules":[
+    "textract","noah_kbm","tlampiran","raw"
+  ]
+}
